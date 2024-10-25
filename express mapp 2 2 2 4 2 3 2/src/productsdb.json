@@ -1,0 +1,32 @@
+[
+  {
+    "productimage": "https://cdn.pixabay.com/photo/2013/07/25/11/56/yarn-166877_1280.jpg",
+    "productid": "product1",
+    "inventory": 5,
+    "prize": 10
+  },
+  {
+    "productimage": "https://cdn.pixabay.com/photo/2015/09/28/07/23/thread-961671_1280.jpg",
+    "productid": "product2",
+    "inventory": 5,
+    "prize": 20
+  },
+  {
+    "productimage": "https://cdn.pixabay.com/photo/2024/03/08/15/53/threads-8621150_1280.jpg",
+    "productid": "product3",
+    "inventory": 5,
+    "prize": 30
+  },
+  {
+    "productimage": "https://cdn.pixabay.com/photo/2022/04/29/09/19/yarn-7162973_1280.jpg",
+    "productid": "product4",
+    "inventory": 5,
+    "prize": 40
+  },
+  {
+    "productimage": "https://cdn.pixabay.com/photo/2020/06/01/19/52/thread-5248183_1280.jpg",
+    "productid": "product5",
+    "inventory": 5,
+    "prize": 50
+  }
+]
